@@ -1,7 +1,40 @@
 # ADF-1702IF8A ANÁLISIS AVANZADO DE SOFTWARE
 
-<img title="Keith Hardy" src="file:///home/cmcgrath/Tec Tijuana/9no Semestre/4.- Analisis Avanzado de Software/GitHub/ITN-ADF-1702IF8A/img/portada.jpg" alt="desert under clear blue sky during daytime" data-align="center">
+<img title="Elliott Engelmann" src="https://images.unsplash.com/photo-1439792675105-701e6a4ab6f0?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjkwODQwfQ" alt="silhouette of mountain" data-align="center">
 
 # Cristian Ricardo Escobedo Ruiz
 
-Repositorio de evidencia de trabajos relacionados con la materia,
+Repositorio donde se almacenan los trabajos como evidencia relacionados con la materia.
+
+Estructura del repositorio:
+
+```
+.
+├── blog
+│   ├── C0.1_C0.1_IntegrarEquiposdeTrabajo.md
+│   └── C0.2_MapaMental_Ingenieriasoftware.md
+├── docs
+│   ├── A0.1_x.md
+│   └── A0.2_x.md
+├── img
+│   ├── C0.2_x_INGENIERIA DEL SOFTWARE MAPA MENTAL.jpg
+│   ├── C0.2_x_INGENIERIA DEL SOFTWARE MAPA MENTAL.svg
+│   └── portada.jpg
+└── README.md
+
+```
+
+# Table of Contents
+
+1. [Example](#example)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
+4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+
+## Example
+
+## Example2
+
+## Third Example
+
+## [Fourth Example](http://www.fourthexample.com)
