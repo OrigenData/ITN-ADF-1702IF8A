@@ -26,8 +26,10 @@ Estructura del repositorio:
 
 # Table of Contents
 
-1. [Example](#example)
-2. [Example2](#example2)
+Blog
+
+1. [C0.1_C0.1_IntegrarEquiposdeTrabajo.md](blog/C0.1_C0.1_IntegrarEquiposdeTrabajo.md)
+2. [C0.2_MapaMental_Ingenieriasoftware.md](blog/C0.2_MapaMental_Ingenieriasoftware.md)
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
