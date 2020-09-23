@@ -1,8 +1,8 @@
-# ADF-1702IF8A ANÁLISIS AVANZADO DE SOFTWARE :eyes:
+# ADF-1702IF8A ANÁLISIS AVANZADO DE SOFTWARE
 
 <img title="Elliott Engelmann" src="https://images.unsplash.com/photo-1439792675105-701e6a4ab6f0?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjkwODQwfQ" alt="silhouette of mountain" data-align="center">
 
-# :alien: CRISTIAN RICARDO ESCOBEDO RUIZ
+## :alien: CRISTIAN RICARDO ESCOBEDO RUIZ
 
 Repositorio donde se almacenan los trabajos como evidencia relacionados con la materia.
 
@@ -24,15 +24,15 @@ Estructura del repositorio:
 
 ```
 
-# :earth_americas:TABLA DE CONTENIDOS
+## :earth_americas: TABLA DE CONTENIDOS
 
-:information_source:**Blog**
+:information_source: **Blog**
 
 * [C0.1_C0.1_IntegrarEquiposdeTrabajo.md](blog/C0.1_C0.1_IntegrarEquiposdeTrabajo.md) 
 
 * [C0.2_MapaMental_Ingenieriasoftware.md](blog/C0.2_MapaMental_Ingenieriasoftware.md)
 
-:page_facing_up:Docs
+:page_facing_up: **Docs**
 
 * A0.1_x.md
 
