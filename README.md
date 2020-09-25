@@ -3,6 +3,10 @@
 <img title="Elliott Engelmann" src="https://images.unsplash.com/photo-1439792675105-701e6a4ab6f0?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjkwODQwfQ" alt="silhouette of mountain" data-align="center">
 
 ## :alien: CRISTIAN RICARDO ESCOBEDO RUIZ
+## Ingeniería informática
+## Equipo: init
+## Docente: Jaime Leonardo Enriquez Alvarez
+
 
 Repositorio donde se almacenan los trabajos como evidencia relacionados con la materia.
 
