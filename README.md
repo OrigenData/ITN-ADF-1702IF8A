@@ -12,13 +12,15 @@ Estructura del repositorio:
 .
 ├── blog
 │   ├── C0.1_C0.1_IntegrarEquiposdeTrabajo.md
-│   └── C0.2_MapaMental_Ingenieriasoftware.md
+│   ├── C0.2_MapaMental_Ingenieriasoftware.md
+│   └── C0.3_DiagramadeFlujo_ProcesoRUP.md
 ├── docs
 │   ├── A0.1_x.md
 │   └── A0.2_x.md
 ├── img
 │   ├── C0.2_x_INGENIERIA DEL SOFTWARE MAPA MENTAL.jpg
 │   ├── C0.2_x_INGENIERIA DEL SOFTWARE MAPA MENTAL.svg
+│   ├── Diagrama de flujo RUP.jpg
 │   └── portada.jpg
 └── README.md
 
@@ -31,6 +33,8 @@ Estructura del repositorio:
 * [C0.1_C0.1_IntegrarEquiposdeTrabajo.md](blog/C0.1_C0.1_IntegrarEquiposdeTrabajo.md) 
 
 * [C0.2_MapaMental_Ingenieriasoftware.md](blog/C0.2_MapaMental_Ingenieriasoftware.md)
+
+* [C0.3_DiagramadeFlujo_ProcesoRUP.md](blob/../blog/C0.3_DiagramadeFlujo_ProcesoRUP.md)
 
 :page_facing_up: **Docs**
 
