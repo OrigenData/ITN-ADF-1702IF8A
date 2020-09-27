@@ -15,17 +15,19 @@ Estructura del repositorio:
 ```
 .
 ├── blog
-│   ├── C0.1_C0.1_IntegrarEquiposdeTrabajo.md
-│   ├── C0.2_MapaMental_Ingenieriasoftware.md
-│   └── C0.3_DiagramadeFlujo_ProcesoRUP.md
+│   ├── C0.1_C0.1_IntegrarEquiposdeTrabajo.md
+│   ├── C0.2_MapaMental_Ingenieriasoftware.md
+│   ├── C0.3_DiagramadeFlujo_ProcesoRUP.md
+│   └── C0.4_SistemaEmbebido_y_adquisicion_datos.md
 ├── docs
-│   ├── A0.1_x.md
-│   └── A0.2_x.md
+│   ├── A0.1_x.md
+│   └── A0.2_x.md
 ├── img
-│   ├── C0.2_x_INGENIERIA DEL SOFTWARE MAPA MENTAL.jpg
-│   ├── C0.2_x_INGENIERIA DEL SOFTWARE MAPA MENTAL.svg
-│   ├── Diagrama de flujo RUP.jpg
-│   └── portada.jpg
+│   ├── C0.2_x_INGENIERIA DEL SOFTWARE MAPA MENTAL.jpg
+│   ├── Diagrama de flujo RUP.jpg
+│   ├── ilustración - sistema de adquisición de datos.jpg
+│   ├── ilustración - sistema embebido.jpg
+│   └── portada.jpg
 └── README.md
 
 ```
@@ -35,10 +37,9 @@ Estructura del repositorio:
 :information_source: **Blog**
 
 * [C0.1_C0.1_IntegrarEquiposdeTrabajo.md](blog/C0.1_C0.1_IntegrarEquiposdeTrabajo.md) 
-
 * [C0.2_MapaMental_Ingenieriasoftware.md](blog/C0.2_MapaMental_Ingenieriasoftware.md)
-
 * [C0.3_DiagramadeFlujo_ProcesoRUP.md](blob/../blog/C0.3_DiagramadeFlujo_ProcesoRUP.md)
+* [C0.4_SistemaEmbebido_y_adquisicion_datos.md](blob/../blog/C0.4_SistemaEmbebido_y_adquisicion_datos.md)
 
 :page_facing_up: **Docs**
 
