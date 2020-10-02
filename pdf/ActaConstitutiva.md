@@ -1,9 +1,433 @@
 # <center>Acta de constitucion de proyecto</center>
 
+<table cellspacing="0" cellpadding="0" width="100%">
+  <colgroup>
+    <col width="222" />
+    <col width="521" />
+  </colgroup>
+  <tr>
+    <td>
+      <p>Empresa:</p>
+    </td>
+    <td>
+      <p>init</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Nombre del proyecto:</p>
+    </td>
+    <td>
+      <p> </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Tipo de proyecto:</p>
+    </td>
+    <td>
+      <p> </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Patrocinador:</p>
+    </td>
+    <td>
+      <p> </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Dueño del Producto:</p>
+    </td>
+    <td>
+      <p> </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Gerente de proyecto:</p>
+    </td>
+    <td>
+      <p> </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Scrum Master:</p>
+    </td>
+    <td>
+      <p> </p>
+    </td>
+  </tr>
+</table>
+<p><br /></p>
+<table cellspacing="0" cellpadding="0" width="100%">
+  <colgroup>
+    <col width="743" />
+  </colgroup>
+  <tr>
+    <td>
+      <p>Propósito del documento</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Este documento define la descripción general, los objetivos y los participantes del proyecto. Se relaciona
+        principalmente con la autorización del inicio del proyecto.</p>
+      <p> </p>
+      <p>Así mismo este documento brinda una descripción de la situación actual, los requisitos de alto nivel, criterios
+        de éxito, riesgo y oportunidades.</p>
+    </td>
+  </tr>
+</table>
+<p> </p>
+<table cellspacing="0" cellpadding="0" width="100%">
+  <colgroup>
+    <col width="743" />
+  </colgroup>
+  <tr>
+    <td>
+      <p>Propósito / Justificación:</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>La necesidad para poder incrementar los beneficios de su empresa hace que </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Breve descripción del proyecto:</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p> </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Alcance preliminar del proyecto:</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p> </p>
+    </td>
+  </tr>
+</table>
+<p> </p>
+<table cellspacing="0" cellpadding="0" width="100%">
+  <colgroup>
+    <col width="285" />
+    <col width="458" />
+  </colgroup>
+  <tr>
+    <td colspan="2">
+      <p>Resultados esperados del proyecto / Beneficios:</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p>Mejorar el sistema de <span>medición</span> ambiental, incorporando sistemas de IOT en el almacenamiento de
+        cada producto dejando de lado el sistema manual que se tiene incorporado actualmente</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p>Requisitos de alto nivel del proyecto:</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Requisito:</p>
+    </td>
+    <td>
+      <p>Criterio de Éxito:</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Reducir los costos relativos al personal operativo, así como eliminación documentos en papel.</p>
+    </td>
+    <td>
+      <p>Traspasar y generar todo documento de manera digitalizada</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Ofrecer la seguridad que es un indicador clave e importante, a través de manejo de usuarios.</p>
+    </td>
+    <td>
+      <p>Instalar sistemas de control de seguridad que el usuario pueda mantenerse altanto de su producto</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Almacenar el historiales de todos los eventos, especialmente en aquellos que el sistema indicara fuera de
+        control.</p>
+    </td>
+    <td>
+      <p>Verificar que los sistemas cuenten con un registro adecuado y entendible de eventos</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Ofrecer alertar al personal e incluso al cliente cuando una condición de ambientación se salga de control, al
+        momento que el evento ocurra.</p>
+    </td>
+    <td>
+      <p>Verificar que todo personal tenga a su <span>disposición</span> el sistema de alertas consigo </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Asegurar que el sistema este siempre disponible cuando se requiera.</p>
+    </td>
+    <td>
+      <p>Revisar <span>periódicamente</span> si requiere mantenimiento el sistema para mantenerse disponible</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Garantizar que los registros no se pierdan o se dañen.</p>
+    </td>
+    <td>
+      <p>Realizar backups <span>periódicamente</span> y una <span>gestión</span> correcta de la base de datos</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Permitir ser accedido en cualquier lugar que el usuario se encuentre, tanto dentro como fuera del
+        <span>área</span> de trabajo.</p>
+    </td>
+    <td>
+      <p>Dar <span>periódicamente</span> mantenimiento al sistema en la nube, <span>solución</span> de fallas</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Permitir la compatibilidad, para usarse desde cualquier tipo de dispositivo.</p>
+    </td>
+    <td>
+      <p>Tener un registro de <span>dispositivos</span> con lo que trabaja el personal y en base a esa
+        <span>información</span> diseña una <span>amplia</span> compatibilidad para acceso al sistema</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Reportear los indicadores claves del sistema como son históricos, alertas, y gráficos.</p>
+    </td>
+    <td>
+      <p>Realizar <span>envíos</span> <span>periódicamente</span> o cuando se solicite de sucesos </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Soportar múltiples sensores tales como son temperatura, humedad, luminosidad, presencia, contaminación.</p>
+    </td>
+    <td>
+      <p>Instalar sensores <span>que se adecuen a las necesidades</span></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p>Hitos:</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p>Cada tercer semana del mes se <span>estará</span> dando un avance del proyecto</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p>Riesgos:</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p> </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p>Costo preliminar estimado / Presupuesto:</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p> </p>
+    </td>
+  </tr>
+</table>
+<p>
+<table cellspacing="0" cellpadding="0" width="100%">
+  <colgroup>
+    <col width="219" />
+    <col width="132" />
+    <col width="82" />
+    <col width="179" />
+    <col width="131" />
+  </colgroup>
+  <tr>
+    <td colspan="5">
+      <p>Interesados en el proyecto:</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Interesado</p>
+    </td>
+    <td>
+      <p>Cargo</p>
+    </td>
+    <td>
+      <p>Rol</p>
+    </td>
+    <td>
+      <p>Teléfono</p>
+    </td>
+    <td>
+      <p>Email</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p> </p>
+    </td>
+    <td>
+      <p> </p>
+    </td>
+    <td>
+      <p> </p>
+    </td>
+    <td>
+      <p> </p>
+    </td>
+    <td>
+      <p> </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p> </p>
+    </td>
+    <td>
+      <p> </p>
+    </td>
+    <td>
+      <p> </p>
+    </td>
+    <td>
+      <p> </p>
+    </td>
+    <td>
+      <p> </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p> </p>
+    </td>
+    <td>
+      <p> </p>
+    </td>
+    <td>
+      <p> </p>
+    </td>
+    <td>
+      <p> </p>
+    </td>
+    <td>
+      <p> </p>
+    </td>
+  </tr>
+</table>
+<p><br /></p>
+<table cellspacing="0" cellpadding="0" width="100%">
+  <colgroup>
+    <col width="743" />
+  </colgroup>
+  <tr>
+    <td>
+      <p>Supuestos:</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p> </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Restricciones:</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Ofrecer una plataforma de <span>monitoreo</span> y control en tiempo real, incorporando alertas al momento de
+        que suceda una falla sobre las condiciones de:</p>
+      <p>* <span>Iluminación</span>, Humedad y temperatura.</p>
+    </td>
+  </tr>
+</table>
+<p><br /></p>
+<table cellspacing="0" cellpadding="0" width="100%">
+  <colgroup>
+    <col width="222" />
+    <col width="173" />
+    <col width="164" />
+    <col width="183" />
+  </colgroup>
+  <tr>
+    <td colspan="4">
+      <p>Autorización de proyecto:</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Nombre</p>
+    </td>
+    <td>
+      <p>Cargo</p>
+    </td>
+    <td>
+      <p>Firma</p>
+    </td>
+    <td>
+      <p>Fecha</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p> </p>
+    </td>
+    <td>
+      <p> </p>
+    </td>
+    <td>
+      <p> </p>
+    </td>
+    <td>
+      <p> </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p> </p>
+    </td>
+    <td>
+      <p> </p>
+    </td>
+    <td>
+      <p> </p>
+    </td>
+    <td>
+      <p> </p>
+    </td>
+  </tr>
 
-<table border="0" cellspacing="0" cellpadding="0" width="100%" class="Tabla1"><colgroup><col width="222"/><col width="521"/></colgroup><tr><td style="text-align:left;width:5.075cm; " class="Tabla1_A1"><p class="P7">Empresa:</p></td><td style="text-align:left;width:11.926cm; " class="Tabla1_B1"><p class="P5">init</p></td></tr><tr><td style="text-align:left;width:5.075cm; " class="Tabla1_A2"><p class="P7">Nombre del proyecto:</p></td><td style="text-align:left;width:11.926cm; " class="Tabla1_B2"><p class="P2"> </p></td></tr><tr><td style="text-align:left;width:5.075cm; " class="Tabla1_A2"><p class="P7">Tipo de proyecto:</p></td><td style="text-align:left;width:11.926cm; " class="Tabla1_B2"><p class="P2"> </p></td></tr><tr><td style="text-align:left;width:5.075cm; " class="Tabla1_A2"><p class="P7">Patrocinador:</p></td><td style="text-align:left;width:11.926cm; " class="Tabla1_B2"><p class="P2"> </p></td></tr><tr><td style="text-align:left;width:5.075cm; " class="Tabla1_A2"><p class="P7">Dueño del Producto:</p></td><td style="text-align:left;width:11.926cm; " class="Tabla1_B2"><p class="P2"> </p></td></tr><tr><td style="text-align:left;width:5.075cm; " class="Tabla1_A2"><p class="P7">Gerente de proyecto:</p></td><td style="text-align:left;width:11.926cm; " class="Tabla1_B2"><p class="P2"> </p></td></tr><tr><td style="text-align:left;width:5.075cm; " class="Tabla1_A2"><p class="P7">Scrum Master:</p></td><td style="text-align:left;width:11.926cm; " class="Tabla1_B2"><p class="P2"> </p></td></tr></table><p class="P10"><br/></p><table border="0" cellspacing="0" cellpadding="0" width="100%" class="Tabla2"><colgroup><col width="743"/></colgroup><tr><td style="text-align:left;width:17cm; " class="Tabla2_A1"><p class="P7">Propósito del documento</p></td></tr><tr><td style="text-align:left;width:17cm; " class="Tabla2_A2"><p class="P9">Este documento define la descripción general, los objetivos y los participantes del proyecto. Se relaciona principalmente con la autorización del inicio del proyecto.</p><p class="P6"> </p><p class="P9">Así mismo este documento brinda una descripción de la situación actual, los requisitos de alto nivel, criterios de éxito, riesgo y oportunidades.</p></td></tr></table><p class="P10"> </p><table border="0" cellspacing="0" cellpadding="0" width="100%" class="Tabla3"><colgroup><col width="743"/></colgroup><tr><td style="text-align:left;width:17cm; " class="Tabla3_A1"><p class="P7">Propósito / Justificación:</p></td></tr><tr><td style="text-align:left;width:17cm; " class="Tabla3_A2"><p class="P2">La necesidad para poder incrementar los beneficios de su empresa hace que </p></td></tr><tr><td style="text-align:left;width:17cm; " class="Tabla3_A3"><p class="P7">Breve descripción del proyecto:</p></td></tr><tr><td style="text-align:left;width:17cm; " class="Tabla3_A2"><p class="P2"> </p></td></tr><tr><td style="text-align:left;width:17cm; " class="Tabla3_A3"><p class="P7">Alcance preliminar del proyecto:</p></td></tr><tr><td style="text-align:left;width:17cm; " class="Tabla3_A2"><p class="P2"> </p></td></tr></table><p class="P10"> </p><table border="0" cellspacing="0" cellpadding="0" width="100%" class="Tabla4"><colgroup><col width="285"/><col width="458"/></colgroup><tr><td colspan="2" style="text-align:left;width:6.525cm; " class="Tabla4_A1"><p class="P7">Resultados esperados del proyecto / Beneficios:</p></td></tr><tr><td colspan="2" style="text-align:left;width:6.525cm; " class="Tabla4_A2"><p class="P2">Mejorar el sistema de <span class="T2">medición</span> ambiental, incorporando sistemas de IOT en el almacenamiento de cada producto dejando de lado el sistema manual que se tiene incorporado actualmente</p></td></tr><tr><td colspan="2" style="text-align:left;width:6.525cm; " class="Tabla4_A3"><p class="P7">Requisitos de alto nivel del proyecto:</p></td></tr><tr><td style="text-align:left;width:6.525cm; " class="Tabla4_A4"><p class="P7">Requisito:</p></td><td style="text-align:left;width:10.476cm; " class="Tabla4_A3"><p class="P7">Criterio de Éxito:</p></td></tr><tr><td style="text-align:left;width:6.525cm; " class="Tabla4_A5"><p class="P2">Reducir los costos relativos al personal operativo, así como eliminación documentos en papel.</p></td><td style="text-align:left;width:10.476cm; " class="Tabla4_A2"><p class="P2">Traspasar y generar todo documento de manera digitalizada</p></td></tr><tr><td style="text-align:left;width:6.525cm; " class="Tabla4_A5"><p class="P2">Ofrecer la seguridad que es un indicador clave e importante, a través de manejo de usuarios.</p></td><td style="text-align:left;width:10.476cm; " class="Tabla4_A2"><p class="P2">Instalar sistemas de control de seguridad que el usuario pueda mantenerse altanto de su producto</p></td></tr><tr><td style="text-align:left;width:6.525cm; " class="Tabla4_A7"><p class="P2">Almacenar el historiales de todos los eventos, especialmente en aquellos que el sistema indicara fuera de control.</p></td><td style="text-align:left;width:10.476cm; " class="Tabla4_B7"><p class="P2">Verificar que los sistemas cuenten con un registro adecuado y entendible de eventos</p></td></tr><tr><td style="text-align:left;width:6.525cm; " class="Tabla4_A7"><p class="P2">Ofrecer alertar al personal e incluso al cliente cuando una condición de ambientación se salga de control, al momento que el evento ocurra.</p></td><td style="text-align:left;width:10.476cm; " class="Tabla4_B7"><p class="P2">Verificar que todo personal tenga a su <span class="T2">disposición</span> el sistema de alertas consigo </p></td></tr><tr><td style="text-align:left;width:6.525cm; " class="Tabla4_A5"><p class="P2">Asegurar que el sistema este siempre disponible cuando se requiera.</p></td><td style="text-align:left;width:10.476cm; " class="Tabla4_A2"><p class="P2">Revisar <span class="T2">periódicamente</span> si requiere mantenimiento el sistema para mantenerse disponible</p></td></tr><tr><td style="text-align:left;width:6.525cm; " class="Tabla4_A5"><p class="P2">Garantizar que los registros no se pierdan o se dañen.</p></td><td style="text-align:left;width:10.476cm; " class="Tabla4_A2"><p class="P2">Realizar backups <span class="T2">periódicamente</span> y una <span class="T2">gestión</span> correcta de la base de datos</p></td></tr><tr><td style="text-align:left;width:6.525cm; " class="Tabla4_A5"><p class="P2">Permitir ser accedido en cualquier lugar que el usuario se encuentre, tanto dentro como fuera del <span class="T2">área</span> de trabajo.</p></td><td style="text-align:left;width:10.476cm; " class="Tabla4_A2"><p class="P2">Dar <span class="T2">periódicamente</span> mantenimiento al sistema en la nube, <span class="T2">solución</span> de fallas</p></td></tr><tr><td style="text-align:left;width:6.525cm; " class="Tabla4_A5"><p class="P2">Permitir la compatibilidad, para usarse desde cualquier tipo de dispositivo.</p></td><td style="text-align:left;width:10.476cm; " class="Tabla4_A2"><p class="P2">Tener un registro de <span class="T2">dispositivos</span> con lo que trabaja el personal y en base a esa <span class="T2">información</span> diseña una <span class="T2">amplia</span> compatibilidad para acceso al sistema</p></td></tr><tr><td style="text-align:left;width:6.525cm; " class="Tabla4_A5"><p class="P2">Reportear los indicadores claves del sistema como son históricos, alertas, y gráficos.</p></td><td style="text-align:left;width:10.476cm; " class="Tabla4_A2"><p class="P2">Realizar <span class="T2">envíos</span> <span class="T2">periódicamente</span> o cuando se solicite de sucesos </p></td></tr><tr><td style="text-align:left;width:6.525cm; " class="Tabla4_A5"><p class="P4">Soportar múltiples sensores tales como son temperatura, humedad, luminosidad, presencia, contaminación.</p></td><td style="text-align:left;width:10.476cm; " class="Tabla4_A2"><p class="P4">Instalar sensores <span class="T3">que se adecuen a las necesidades</span></p></td></tr><tr><td colspan="2" style="text-align:left;width:6.525cm; " class="Tabla4_A3"><p class="P7">Hitos:</p></td></tr><tr><td colspan="2" style="text-align:left;width:6.525cm; " class="Tabla4_A2"><p class="P2">Cada tercer semana del mes se <span class="T2">estará</span> dando un avance del proyecto</p></td></tr><tr><td colspan="2" style="text-align:left;width:6.525cm; " class="Tabla4_A3"><p class="P7">Riesgos:</p></td></tr><tr><td colspan="2" style="text-align:left;width:6.525cm; " class="Tabla4_A2"><p class="P3"> </p></td></tr><tr><td colspan="2" style="text-align:left;width:6.525cm; " class="Tabla4_A3"><p class="P7">Costo preliminar estimado / Presupuesto:</p></td></tr><tr><td colspan="2" style="text-align:left;width:6.525cm; " class="Tabla4_B7"><p class="P2"> </p></td></tr></table><p class="P10"/><table border="0" cellspacing="0" cellpadding="0" width="100%" class="Tabla5"><colgroup><col width="219"/><col width="132"/><col width="82"/><col width="179"/><col width="131"/></colgroup><tr><td colspan="5" style="text-align:left;width:5.013cm; " class="Tabla5_A1"><p class="P7">Interesados en el proyecto:</p></td></tr><tr><td style="text-align:left;width:5.013cm; " class="Tabla5_A2"><p class="P7">Interesado</p></td><td style="text-align:left;width:3.023cm; " class="Tabla5_A2"><p class="P7">Cargo</p></td><td style="text-align:left;width:1.875cm; " class="Tabla5_A2"><p class="P7">Rol</p></td><td style="text-align:left;width:4.09cm; " class="Tabla5_A2"><p class="P7">Teléfono</p></td><td style="text-align:left;width:2.999cm; " class="Tabla5_E2"><p class="P7">Email</p></td></tr><tr><td style="text-align:left;width:5.013cm; " class="Tabla5_A3"><p class="P2"> </p></td><td style="text-align:left;width:3.023cm; " class="Tabla5_A3"><p class="P2"> </p></td><td style="text-align:left;width:1.875cm; " class="Tabla5_A3"><p class="P2"> </p></td><td style="text-align:left;width:4.09cm; " class="Tabla5_A3"><p class="P2"> </p></td><td style="text-align:left;width:2.999cm; " class="Tabla5_E3"><p class="P2"> </p></td></tr><tr><td style="text-align:left;width:5.013cm; " class="Tabla5_A3"><p class="P2"> </p></td><td style="text-align:left;width:3.023cm; " class="Tabla5_A3"><p class="P2"> </p></td><td style="text-align:left;width:1.875cm; " class="Tabla5_A3"><p class="P2"> </p></td><td style="text-align:left;width:4.09cm; " class="Tabla5_A3"><p class="P2"> </p></td><td style="text-align:left;width:2.999cm; " class="Tabla5_E3"><p class="P2"> </p></td></tr><tr><td style="text-align:left;width:5.013cm; " class="Tabla5_A3"><p class="P2"> </p></td><td style="text-align:left;width:3.023cm; " class="Tabla5_A3"><p class="P2"> </p></td><td style="text-align:left;width:1.875cm; " class="Tabla5_A3"><p class="P2"> </p></td><td style="text-align:left;width:4.09cm; " class="Tabla5_A3"><p class="P2"> </p></td><td style="text-align:left;width:2.999cm; " class="Tabla5_E3"><p class="P2"> </p></td></tr></table><p class="P10"><br/></p><table border="0" cellspacing="0" cellpadding="0" width="100%" class="Tabla6"><colgroup><col width="743"/></colgroup><tr><td style="text-align:left;width:17cm; " class="Tabla6_A1"><p class="P7">Supuestos:</p></td></tr><tr><td style="text-align:left;width:17cm; " class="Tabla6_A2"><p class="P2"> </p></td></tr><tr><td style="text-align:left;width:17cm; " class="Tabla6_A3"><p class="P7">Restricciones:</p></td></tr><tr><td style="text-align:left;width:17cm; " class="Tabla6_A2"><p class="P2">Ofrecer una plataforma de <span class="T3">monitoreo</span> y control en tiempo real, incorporando alertas al momento de que suceda una falla sobre las condiciones de:</p><p class="P2">* <span class="T3">Iluminación</span>, Humedad y temperatura.</p></td></tr></table><p class="P10"><br/></p><table border="0" cellspacing="0" cellpadding="0" width="100%" class="Tabla7"><colgroup><col width="222"/><col width="173"/><col width="164"/><col width="183"/></colgroup><tr><td colspan="4" style="text-align:left;width:5.082cm; " class="Tabla7_A1"><p class="P8">Autorización de proyecto:</p></td></tr><tr><td style="text-align:left;width:5.082cm; " class="Tabla7_A2"><p class="P7">Nombre</p></td><td style="text-align:left;width:3.967cm; " class="Tabla7_A2"><p class="P7">Cargo</p></td><td style="text-align:left;width:3.759cm; " class="Tabla7_A2"><p class="P7">Firma</p></td><td style="text-align:left;width:4.193cm; " class="Tabla7_D2"><p class="P7">Fecha</p></td></tr><tr><td style="text-align:left;width:5.082cm; " class="Tabla7_A2"><p class="P2"> </p></td><td style="text-align:left;width:3.967cm; " class="Tabla7_A2"><p class="P2"> </p></td><td style="text-align:left;width:3.759cm; " class="Tabla7_A2"><p class="P2"> </p></td><td style="text-align:left;width:4.193cm; " class="Tabla7_D2"><p class="P2"> </p></td></tr><tr><td style="text-align:left;width:5.082cm; " class="Tabla7_A2"><p class="P2"> </p></td><td style="text-align:left;width:3.967cm; " class="Tabla7_A2"><p class="P2"> </p></td><td style="text-align:left;width:3.759cm; " class="Tabla7_A2"><p class="P2"> </p></td><td style="text-align:left;width:4.193cm; " class="Tabla7_D2"><p class="P2"> </p></td></tr></table>
-
-
-
-
-
+</table>
