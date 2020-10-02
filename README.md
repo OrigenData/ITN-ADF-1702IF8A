@@ -37,6 +37,7 @@ Estructura del repositorio:
 * [C0.3_DiagramadeFlujo_ProcesoRUP.md](blob/../blog/C0.3_DiagramadeFlujo_ProcesoRUP.md)
 * [C0.4_SistemaEmbebido_y_adquisicion_datos.md](blob/../blog/C0.4_SistemaEmbebido_y_adquisicion_datos.md)
 * [C1.1_ObjetivosGenerales_especificos.md](blog/C1.1_ObjetivosGenerales_especificos.md)
+* [C1.2_ActaConstitutiva_delProyecto.md](blog/)
 
 :page_facing_up: **Docs**
 
