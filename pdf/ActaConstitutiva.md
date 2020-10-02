@@ -9,8 +9,8 @@
 
 
 
-<style type="text/css">
-    @page {  }
+<style>
+ 
     table { border-collapse:collapse; border-spacing:0; empty-cells:show }
     td, th { vertical-align:top; font-size:12pt;}
     h1, h2, h3, h4, h5, h6 { clear:both;}
