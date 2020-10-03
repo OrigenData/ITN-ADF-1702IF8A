@@ -1,4 +1,6 @@
-# <center>Acta de constitucion de proyecto</center>
+# <center>Acta de constitutiva de proyecto</center>
+
+
 
 <table cellspacing="0" cellpadding="0" width="100%">
   <colgroup>
@@ -18,7 +20,7 @@
       <p>Nombre del proyecto:</p>
     </td>
     <td>
-      <p> </p>
+      <p>Resolución del modelo de Open Warehouse Company</p>
     </td>
   </tr>
   <tr>
@@ -26,7 +28,7 @@
       <p>Tipo de proyecto:</p>
     </td>
     <td>
-      <p> </p>
+      <p><span>S</span>istema de <span>administración</span> de almacenes WMS </p>
     </td>
   </tr>
   <tr>
@@ -34,7 +36,7 @@
       <p>Patrocinador:</p>
     </td>
     <td>
-      <p> </p>
+      <p>Open Warehouse Company </p>
     </td>
   </tr>
   <tr>
@@ -42,7 +44,7 @@
       <p>Dueño del Producto:</p>
     </td>
     <td>
-      <p> </p>
+      <p>Cristian <span>Ricardo </span>Escobedo <span>Ruiz</span></p>
     </td>
   </tr>
   <tr>
@@ -50,7 +52,7 @@
       <p>Gerente de proyecto:</p>
     </td>
     <td>
-      <p> </p>
+      <p>Tania Guadalupe Osuna Simpson</p>
     </td>
   </tr>
   <tr>
@@ -58,7 +60,7 @@
       <p>Scrum Master:</p>
     </td>
     <td>
-      <p> </p>
+      <p>Jorge Duran Trejo</p>
     </td>
   </tr>
 </table>
@@ -74,11 +76,11 @@
   </tr>
   <tr>
     <td>
-      <p>Este documento define la descripción general, los objetivos y los participantes del proyecto. Se relaciona
-        principalmente con la autorización del inicio del proyecto.</p>
+      <p>Este documento define la descripción general, los objetivos y los participantes del proyecto. Se
+        relaciona principalmente con la autorización del inicio del proyecto.</p>
       <p> </p>
-      <p>Así mismo este documento brinda una descripción de la situación actual, los requisitos de alto nivel, criterios
-        de éxito, riesgo y oportunidades.</p>
+      <p>Así mismo este documento brinda una descripción de la situación actual, los requisitos de alto
+        nivel, criterios de éxito, riesgo y oportunidades.</p>
     </td>
   </tr>
 </table>
@@ -104,7 +106,9 @@
   </tr>
   <tr>
     <td>
-      <p> </p>
+      <p>Desarrollo de un prototipo que resuelva la necesidad de tener un control y monitoreo en tiempo real
+        en el almacén  donde estará incorporando alertas al momento de que suceda una falla sobre las condiciones de:
+      </p>
     </td>
   </tr>
   <tr>
@@ -114,7 +118,7 @@
   </tr>
   <tr>
     <td>
-      <p> </p>
+      <p>Mejora del modelado BPMN, plasmando de manera gráfica lo que se quiere lograr</p>
     </td>
   </tr>
 </table>
@@ -131,8 +135,8 @@
   </tr>
   <tr>
     <td colspan="2">
-      <p>Mejorar el sistema de <span>medición</span> ambiental, incorporando sistemas de IOT en el almacenamiento de
-        cada producto dejando de lado el sistema manual que se tiene incorporado actualmente</p>
+      <p>Mejorar el sistema de <span>medición</span> ambiental, incorporando sistemas de IOT en el
+        almacenamiento de cada producto dejando de lado el sistema manual que se tiene incorporado actualmente</p>
     </td>
   </tr>
   <tr>
@@ -166,8 +170,8 @@
   </tr>
   <tr>
     <td>
-      <p>Almacenar el historiales de todos los eventos, especialmente en aquellos que el sistema indicara fuera de
-        control.</p>
+      <p>Almacenar el historiales de todos los eventos, especialmente en aquellos que el sistema indicara
+        fuera de control.</p>
     </td>
     <td>
       <p>Verificar que los sistemas cuenten con un registro adecuado y entendible de eventos</p>
@@ -175,11 +179,12 @@
   </tr>
   <tr>
     <td>
-      <p>Ofrecer alertar al personal e incluso al cliente cuando una condición de ambientación se salga de control, al
-        momento que el evento ocurra.</p>
+      <p>Ofrecer alertar al personal e incluso al cliente cuando una condición de ambientación se salga de
+        control, al momento que el evento ocurra.</p>
     </td>
     <td>
-      <p>Verificar que todo personal tenga a su <span>disposición</span> el sistema de alertas consigo </p>
+      <p>Verificar que todo personal tenga a su <span>disposición</span> el sistema de alertas
+        consigo </p>
     </td>
   </tr>
   <tr>
@@ -187,7 +192,8 @@
       <p>Asegurar que el sistema este siempre disponible cuando se requiera.</p>
     </td>
     <td>
-      <p>Revisar <span>periódicamente</span> si requiere mantenimiento el sistema para mantenerse disponible</p>
+      <p>Revisar <span>periódicamente</span> si requiere mantenimiento el sistema para mantenerse
+        disponible</p>
     </td>
   </tr>
   <tr>
@@ -195,7 +201,8 @@
       <p>Garantizar que los registros no se pierdan o se dañen.</p>
     </td>
     <td>
-      <p>Realizar backups <span>periódicamente</span> y una <span>gestión</span> correcta de la base de datos</p>
+      <p>Realizar backups <span>periódicamente</span> y una <span>gestión</span>
+        correcta de la base de datos</p>
     </td>
   </tr>
   <tr>
@@ -212,8 +219,9 @@
       <p>Permitir la compatibilidad, para usarse desde cualquier tipo de dispositivo.</p>
     </td>
     <td>
-      <p>Tener un registro de <span>dispositivos</span> con lo que trabaja el personal y en base a esa
-        <span>información</span> diseña una <span>amplia</span> compatibilidad para acceso al sistema</p>
+      <p>Tener un registro de <span>dispositivos</span> con lo que trabaja el personal y en base a
+        esa <span>información</span> diseña una <span>amplia</span> compatibilidad para acceso al
+        sistema</p>
     </td>
   </tr>
   <tr>
@@ -221,12 +229,14 @@
       <p>Reportear los indicadores claves del sistema como son históricos, alertas, y gráficos.</p>
     </td>
     <td>
-      <p>Realizar <span>envíos</span> <span>periódicamente</span> o cuando se solicite de sucesos </p>
+      <p>Realizar <span>envíos</span> <span>periódicamente</span> o cuando se solicite
+        de sucesos </p>
     </td>
   </tr>
   <tr>
     <td>
-      <p>Soportar múltiples sensores tales como son temperatura, humedad, luminosidad, presencia, contaminación.</p>
+      <p>Soportar múltiples sensores tales como son temperatura, humedad, luminosidad, presencia,
+        contaminación.</p>
     </td>
     <td>
       <p>Instalar sensores <span>que se adecuen a las necesidades</span></p>
@@ -249,7 +259,18 @@
   </tr>
   <tr>
     <td colspan="2">
-      <p> </p>
+      <ul>
+        <li>
+          <p>En base al proyecto a realizar puede que haga
+            falta herramientas de computo pero se considerara en adquirirlas para la elaboración del proyecto<span /> 
+          </p>
+        </li>
+        <li>
+          <p>Falta de comunicación con el patrocinador
+            puede que retrase los avances del proyecto, se puede establecer dos fechas de entre considerando la
+            disponibilidad del patrocinador<span /> </p>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -263,7 +284,7 @@
     </td>
   </tr>
 </table>
-<p>
+<p> </p>
 <table cellspacing="0" cellpadding="0" width="100%">
   <colgroup>
     <col width="219" />
@@ -296,19 +317,19 @@
   </tr>
   <tr>
     <td>
-      <p> </p>
+      <p>Cristian Ricardo Escobedo Ruiz</p>
     </td>
     <td>
-      <p> </p>
+      <p>Dueño del Producto</p>
     </td>
     <td>
-      <p> </p>
+      <p>Programador</p>
     </td>
     <td>
-      <p> </p>
+      <p>(663) 111 11 11</p>
     </td>
     <td>
-      <p> </p>
+      <p>name@mail.com</p>
     </td>
   </tr>
   <tr>
@@ -358,7 +379,17 @@
   </tr>
   <tr>
     <td>
-      <p> </p>
+      <ul>
+        <li>
+          <p>Puede que aumentar el numero de trabajadores
+            conforme avance el proyecto<span /> </p>
+        </li>
+        <li>
+          <p>Puede considerarse retrasos en situaciones
+            fuera de nuestro control como acontecimientos ambientales que consideren un riesgo a la localidad donde se
+            labora<span /> </p>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -368,9 +399,9 @@
   </tr>
   <tr>
     <td>
-      <p>Ofrecer una plataforma de <span>monitoreo</span> y control en tiempo real, incorporando alertas al momento de
-        que suceda una falla sobre las condiciones de:</p>
-      <p>* <span>Iluminación</span>, Humedad y temperatura.</p>
+      <p>Ofrecer una plataforma de <span>monitoreo</span> y control en tiempo real, incorporando
+        alertas al momento de que suceda una falla sobre las condiciones de: <span>Iluminación</span>,
+        <span>h</span>umedad y temperatura.</p>
     </td>
   </tr>
 </table>
@@ -403,16 +434,16 @@
   </tr>
   <tr>
     <td>
-      <p> </p>
+      <p>Open Warehouse Company</p>
+    </td>
+    <td>
+      <p>Patrocinador</p>
     </td>
     <td>
       <p> </p>
     </td>
     <td>
-      <p> </p>
-    </td>
-    <td>
-      <p> </p>
+      <p>02/Octubre/2020</p>
     </td>
   </tr>
   <tr>
@@ -429,5 +460,4 @@
       <p> </p>
     </td>
   </tr>
-
 </table>
