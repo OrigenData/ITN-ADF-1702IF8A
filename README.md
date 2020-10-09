@@ -39,6 +39,7 @@ Estructura del repositorio:
 * [C0.4_SistemaEmbebido_y_adquisicion_datos.md](blob/../blog/C0.4_SistemaEmbebido_y_adquisicion_datos.md)
 * [C1.1_ObjetivosGenerales_especificos.md](blog/C1.1_ObjetivosGenerales_especificos.md)
 * [C1.2_ActaConstitutiva_delProyecto.md](blog/C1.2_ActaConstitutiva_delProyecto.md)
+* [C1.3_Requisitos_del_usuario_y_del_sistema.md](blog/C1.3_Requisitos_del_usuario_y_del_sistema.md)
 
 :page_facing_up: **Docs**
 
