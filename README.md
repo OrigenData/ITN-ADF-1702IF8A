@@ -21,7 +21,10 @@ Estructura del repositorio:
 │   ├── C0.4_SistemaEmbebido_y_adquisicion_datos.md
 │   ├── C1.1_ObjetivosGenerales_especificos.md
 │   ├── C1.3_Requisitos_del_usuario_y_del_sistema.md
-│   └── C1.4_UtilizandoExtensionesUML_DiagramaSecuencia.md
+│   ├── C1.4_UtilizandoExtensionesUML_DiagramaSecuencia.md
+│   ├── C1.5_UML_Estado_componentes_distribucion.md
+│   ├── C2.1_EspecificacionRequerimientos_Funcionales.md
+│   └── C2.2_EspecificacionRequerimientosNoFuncionales.md
 ├── docs
 │   ├── A0.1_x.md
 │   └── A0.2_x.md
@@ -42,7 +45,10 @@ Estructura del repositorio:
 * [C1.2_ActaConstitutiva_delProyecto.md](blog/C1.2_ActaConstitutiva_delProyecto.md)
 * [C1.3_Requisitos_del_usuario_y_del_sistema.md](blog/C1.3_Requisitos_del_usuario_y_del_sistema.md)
 * [C1.4_UtilizandoExtensionesUML_DiagramaSecuencia.md](blog/C1.4_UtilizandoExtensionesUML_DiagramaSecuencia.md)
-
+* [C1.5_UML_Estado_componentes_distribucion.md](blog/C1.5_UML_Estado_componentes_distribucion.md)
+* [C2.1_EspecificacionRequerimientos_Funcionales.md](blog/C2.1_EspecificacionRequerimientos_Funcionales.md)
+* [C2.2_EspecificacionRequerimientosNoFuncionales.md](blog/C2.2_EspecificacionRequerimientosNoFuncionales.md)
+* 
 :page_facing_up: **Docs**
 
 * A0.1_x.md
